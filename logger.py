@@ -55,7 +55,7 @@ def main():
             except Exception as e:
                 print(f"Error reading file {filepath}: {e}")
 
-    print("/yourname/")
+    print("/your name or your funny message/")
 
 if __name__ == "__main__":
     main()
